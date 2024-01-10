@@ -1,3 +1,6 @@
 components:
   - name: my_component
     enabled: true
+  
+  - name: strange_component
+    enabled: false 
