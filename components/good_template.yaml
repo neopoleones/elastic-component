@@ -1,0 +1,14 @@
+component:
+  # Имя темплейта, которое будет указано в запросе
+  name: "my_component"
+
+  template:
+    
+    # Настройки. Задаются 
+    settings:
+      - std_setup
+      - filebeat_mappings_setup
+      - filebeat_query_setup
+
+    aliases:
+      some_alias:
