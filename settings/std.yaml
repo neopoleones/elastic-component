@@ -8,8 +8,8 @@ setup:
 
     # Стандартные настройки индекса для компонента
     index:
-      refresh_interval": "30s"
-      number_of_shards": 1
-      max_docvalue_fields_search": 200
+      refresh_interval: "30s"
+      number_of_shards: 1
+      max_docvalue_fields_search: 200
 
     
