@@ -10,4 +10,4 @@ component:
       - filebeat_mappings_setup
 
     aliases:
-      test_alias:
+      test_alias_2:
