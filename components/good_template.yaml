@@ -4,7 +4,7 @@ component:
 
   template:
     
-    # Настройки. Задаются 
+    # Задаем настройки - маленькие информационные блоки
     settings:
       - std_setup
       - filebeat_mappings_setup
