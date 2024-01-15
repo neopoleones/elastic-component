@@ -8,7 +8,6 @@ component:
     settings:
       - std_setup
       - filebeat_mappings_setup
-      - filebeat_query_setup
 
     aliases:
-      some_alias:
+      test_alias:
