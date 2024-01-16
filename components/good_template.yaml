@@ -1,6 +1,6 @@
 component:
   # Имя темплейта, которое будет указано в запросе
-  name: "my_component"
+  name: "honey_tc"
 
   template:
     
