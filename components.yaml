@@ -1,5 +1,5 @@
 components:
-  - name: my_component
+  - name: honey_tc
     enabled: true
   
   - name: strange_component
