@@ -2,9 +2,7 @@
   "template": {
     "settings": {
       "index": {
-        "refresh_interval": {
-          "icorrect": "value"
-        }
+        "refresh_interval": "15s"
       }
     }
   }
