@@ -1,0 +1,30 @@
+{
+  "template": {
+    "settings": {
+      "index": {
+        "lifecycle": {
+          "name": "vector-ilm",
+          "rollover_alias": "vector-aggregated"
+        },
+        "default_pipeline": "FixConflict_calendarTime"
+      }
+    },
+    "mappings": {
+      "dynamic_templates": [],
+      "properties": {
+        "calendarTime": {
+          "type": "date"
+        }
+      }
+    },
+    "aliases": {
+      "vector-aggregated": {
+        "is_write_index": true
+      }
+    }
+  },
+  "index_patterns": [
+    "vector-aggregated-*"
+  ],
+  "composed_of": []
+}
