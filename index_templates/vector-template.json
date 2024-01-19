@@ -5,7 +5,7 @@
         "lifecycle": {
           "name": "vector-ilm",
           "rollover_alias": "vector-aggregated"
-        },
+        }
       }
     },
     "mappings": {
