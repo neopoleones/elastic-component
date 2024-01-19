@@ -2,9 +2,7 @@
   "target": "_all",
   "settings": {
     "index" : {
-      "number_of_replicas" : {
-        "bad": "error"
-      }
+      "number_of_replicas" : 
     }
   }
 }
