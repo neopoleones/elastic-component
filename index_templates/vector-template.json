@@ -3,9 +3,7 @@
     "settings": {
       "index": {
         "lifecycle": {
-          "name": {
-            "bad_arg": "vector-ilm"
-          },
+          "name": "vector-ilm",
           "rollover_alias": "vector-aggregated"
         },
         "default_pipeline": "FixConflict_calendarTime"
