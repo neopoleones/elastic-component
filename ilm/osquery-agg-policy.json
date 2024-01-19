@@ -2,9 +2,7 @@
   "policy": {
     "phases": {
       "hot": {
-        "min_age": {
-          "wow": "value"
-        },
+        "min_age": "15s",
         "actions": {
           "set_priority": {
             "priority": 100
