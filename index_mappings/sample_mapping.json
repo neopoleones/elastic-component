@@ -1,5 +1,5 @@
 {
-  "target": "*",
+  "target": "_all",
   "settings": {
     "properties": {
       "email": {
