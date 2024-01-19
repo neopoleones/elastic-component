@@ -6,7 +6,6 @@
           "name": "vector-ilm",
           "rollover_alias": "vector-aggregated"
         },
-        "default_pipeline": "FixConflict_calendarTime"
       }
     },
     "mappings": {
