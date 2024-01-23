@@ -4,6 +4,9 @@
     "properties": {
       "email": {
         "type": "keyword"
+      },
+      "email_2": {
+        "type": "keyword"
       }
     }
   }
