@@ -2,8 +2,7 @@
   "target": "_all",
   "settings": {
     "index" : {
-      "number_of_replicas" : 1,
-      "test": "test@3"
+      "number_of_replicas" : 1
     }
   }
 }
