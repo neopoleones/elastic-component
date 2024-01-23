@@ -2,7 +2,7 @@
   "template": {
     "settings": {
       "index": {
-        "refresh_interval": "40s"
+        "refresh_interval": "50s"
       }
     }
   }
