@@ -1,6 +1,6 @@
 components:
   - name: honey_tc
-    enabled: true
+    enabled: false
   
   - name: strange_component
     enabled: false 
