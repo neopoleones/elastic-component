@@ -28,8 +28,8 @@
             "type": "text",
             "fields": {
               "keyword": {
-                "type": "keyword",
-                "ignore_above": 128
+                "type": "text",
+                "ignore_above": 256
               }
             }
           }
