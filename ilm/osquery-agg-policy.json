@@ -2,7 +2,7 @@
   "policy": {
     "phases": {
       "hot": {
-        "min_age": "error",
+        "min_age": "15s",
         "actions": {
           "set_priority": {
             "priority": 100
