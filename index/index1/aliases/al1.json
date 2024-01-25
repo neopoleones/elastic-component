@@ -1,0 +1,11 @@
+POST _aliases
+{
+  "actions": [
+    {
+      "add": {
+        "index": "index1",
+        "alias": "al_index1"
+      }
+    }
+  ]
+}
