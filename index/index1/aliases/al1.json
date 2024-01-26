@@ -3,7 +3,7 @@
     {
       "add": {
         "index": "index1",
-        "alias": "al_index1"
+        "alias": "als_index1"
       }
     }
   ]
